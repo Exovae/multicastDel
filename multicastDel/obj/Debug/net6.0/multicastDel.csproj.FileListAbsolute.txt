@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\multicastDel\multicastDel\bin\Debug\net6.0\multicastDel.exe
+C:\Users\ellio\source\repos\multicastDel\multicastDel\bin\Debug\net6.0\multicastDel.deps.json
+C:\Users\ellio\source\repos\multicastDel\multicastDel\bin\Debug\net6.0\multicastDel.runtimeconfig.json
+C:\Users\ellio\source\repos\multicastDel\multicastDel\bin\Debug\net6.0\multicastDel.dll
+C:\Users\ellio\source\repos\multicastDel\multicastDel\bin\Debug\net6.0\multicastDel.pdb
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.AssemblyInfo.cs
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.dll
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\refint\multicastDel.dll
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.pdb
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\multicastDel.genruntimeconfig.cache
+C:\Users\ellio\source\repos\multicastDel\multicastDel\obj\Debug\net6.0\ref\multicastDel.dll
